@@ -7,3 +7,4 @@ while creating egreee and ingress rulee, if we give the security group id as a d
 
 today lets learn
 im learning terraform 
+ruless has been created
